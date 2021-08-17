@@ -17,158 +17,159 @@ export default function App() {
         
         <View style={styles.content}>
         
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.boxorange}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.boxorange}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.boxblue}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.box}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#64A697',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#64A697',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxgreen}/>
+        <View style={styles.boxgreen}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
 
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#64A697',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#64A697',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C7D4DC',}]}></View>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxgreen}/>
+        <View style={styles.boxgreen}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.box}/>
+        <View style={styles.box}/>
+        
         </View>
 
         <View style={styles.footer}>
         
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white'}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
 
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white'}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
+        <View style={styles.boxorange}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxpurple}/>
 
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#C97A26',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white'}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#9162AB',}]}></View>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxorange}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxpurple}/>
+        <View style={styles.boxpurple}/>
 
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white'}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'#4C65C7',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
-        <View style={[styles.box, {backgroundColor:'white',}]}></View>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxblue}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
+        <View style={styles.boxfooter}/>
         
         </View>
     </View>
@@ -202,6 +203,7 @@ content:{
 },
 
 box:{
+  backgroundColor:'#C7D4DC',
   marginTop:2,
   marginLeft:2,
   width:25,
@@ -210,14 +212,56 @@ box:{
 },
 
 footer:{
-flexDirection:'row',
-flexWrap:'wrap',
-margin:20,
-marginRight:10,
-position:'relative',
-top:10,
-
+  flexDirection:'row',
+  flexWrap:'wrap',
+  margin:20,
+  marginRight:10,
+  position:'relative',
+  top:10,
 },
 
+boxorange:{
+  backgroundColor:'#C97A26',
+  marginTop:2,
+  marginLeft:2,
+  width:25,
+  height:25,
+  borderRadius:5,
+},
 
+boxblue:{
+  backgroundColor:'#4C65C7',
+  marginTop:2,
+  marginLeft:2,
+  width:25,
+  height:25,
+  borderRadius:5,
+},
+
+boxpurple:{
+  backgroundColor:'#9162AB',
+  marginTop:2,
+  marginLeft:2,
+  width:25,
+  height:25,
+  borderRadius:5,
+},
+
+boxgreen:{
+  backgroundColor:'#64A697',
+  marginTop:2,
+  marginLeft:2,
+  width:25,
+  height:25,
+  borderRadius:5,
+},
+
+boxfooter:{
+  backgroundColor:'white',
+  marginTop:2,
+  marginLeft:2,
+  width:25,
+  height:25,
+  borderRadius:5,
+}
 });
